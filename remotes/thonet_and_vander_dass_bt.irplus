@@ -1,0 +1,12 @@
+<irplus>
+  <device manufacturer="" model="Thonet &amp; Vander Dass BT" columns="12" format="WINLIRC_SPACEENC" toggle-bit-pos="0" one-pulse="578" one-space="1675" zero-pulse="578" zero-space="562" header-pulse="9103" header-space="4515" gap-space="135858" gap-pulse="579" bits="32" pre-bits="32">
+    <button label="&#1045541;" labelSize="35.0" span="6" labelColor="FFC10000" backgroundColor="FF3F3F3F">0x00FFA25D</button>
+    <button label="&#1046012;" labelSize="35.0" span="6" backgroundColor="FF3F3F3F">0x00FF629D</button>
+    <button label="&#1046365;" labelSize="35.0" span="4" backgroundColor="FF3F3F3F">0x00FF18E7</button>
+    <button label="&#1046366;" labelSize="35.0" span="4" backgroundColor="FF3F3F3F">0x00FFE21D</button>
+    <button label="&#1046366;" labelSize="35.0" span="4" backgroundColor="FF3F3F3F">0x00FFA857</button>
+    <button label="&#1045675;" labelSize="35.0" span="4" backgroundColor="FF3F3F3F">0x00FF6897</button>
+    <button label="&#1045518;" labelSize="35.0" span="4" backgroundColor="FF3F3F3F">0x00FF9867</button>
+    <button label="&#1045676;" labelSize="35.0" span="4" backgroundColor="FF3F3F3F">0x00FFB04F</button>
+  </device>
+</irplus>
