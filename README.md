@@ -8,7 +8,7 @@ Pulses collected via IR module VS1838B connected to Raspberry Pi 3B+
     <td align="center"><img src="./.github/img/remotes/thonet_and_vander_dass_bt.png" alt="drawing" height="75"/></td>
     <td valign="center">
       <b>For</b>: <a href="https://google.com/search?q=Thonet and Vander Dass BT">Thonet and Vander Dass BT</a><br>
-      <b>Name</b>: Unknown<br>
+      <b>Name</b>: <a href="https://www.geeetech.com/wiki/index.php/Arduino_IR_Remote_Control">Arduino IR Remote Control</a>?<br>
       <b>Get</b>: <a href="./remotes/thonet_and_vander_dass_bt.xml">thonet_and_vander_dass_bt.xml</a>
     </td>
   </tr>
